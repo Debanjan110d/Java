@@ -76,6 +76,19 @@ public class operators {
         int s = 10;
         int t = (s > 5) ? 10 : 20; // ternary operator
         System.out.println(t);
+        // Bitwise Operators
+        int u = 10;
+        int v = 5;
+        int w = u & v; // bitwise and
+        System.out.println(w);
 
+        int x = u | v; // bitwise or
+        System.out.println(x);
+
+        int y = u ^ v; // bitwise xor
+        System.out.println(y);
+
+        int z = ~u; // bitwise not
+        System.out.println(z);
     }
 }
