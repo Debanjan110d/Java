@@ -22,5 +22,16 @@ public class logical_operators {
         boolean isLessOrEqual = (a <= b); // less than or equal to (true if a is less than or equal to b)
         System.out.println("a <= b: " + isLessOrEqual);
 
+        boolean isGreaterThan = (a > b); // greater than (true if a is greater than b)
+        System.out.println("a > b: " + isGreaterThan);
+
+        boolean isLessThan = (a < b); // less than (true if a is less than b)
+        System.out.println("a < b: " + isLessThan);
+
+        boolean isGreaterThanOrEqualTo = (a >= b); // greater than or equal to (true if a is greater than or equal to b)
+        System.out.println("a >= b: " + isGreaterThanOrEqualTo);
+
+        boolean isLessThanOrEqualTo = (a <= b); // less than or equal to (true if a is less than or equal to b)
+        System.out.println("a <= b: " + isLessThanOrEqualTo);
     }
 }
