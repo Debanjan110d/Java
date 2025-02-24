@@ -13,3 +13,4 @@
 -  [Rock_Paper_Scesior.md](/Rock_Paper_Scesior/Rock_Paper_Scesior.md)
 -  [loops.md](/loops/loops.md)
 -  [break_continue.md](/loops/break_continue.md)
+-  [arrays.md](/arrays/arrays.md)
