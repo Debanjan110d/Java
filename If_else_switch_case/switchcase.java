@@ -33,6 +33,7 @@ public class switchcase {
                 break;
         }
         System.out.println(dayString);
+        sc.close();
 
     }
 }
