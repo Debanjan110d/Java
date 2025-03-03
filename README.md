@@ -18,3 +18,4 @@
 -  [methods_in_java.md](/Java%20Methods/methods_in_java.md)
 -  [reference.md](/reference.md)
 -  [methods_overloading.md](/Java%20Methods/method_overloading.md)
+-  [VarArgs.md](/VarArgs%20Tutorial/VarArgs.md)
