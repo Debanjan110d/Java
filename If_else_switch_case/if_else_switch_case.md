@@ -87,4 +87,4 @@ public class SwitchExample {
 | Performance    | Slower for multiple conditions    | Faster for multiple conditions (uses lookup tables)                      |
 | Readability    | Complex with many `else if` cases | More readable for multiple fixed values                                  |
 
-Let me know if you need further clarification! 🚀
+
