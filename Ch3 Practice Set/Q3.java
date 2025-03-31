@@ -6,6 +6,7 @@ public class Q3 {
         System.out.print("Enter your name: ");
         String name = sc.nextLine();
         System.out.println("Dear " + name + ", Thanks a lot");
+        sc.close();
 
     }
 }

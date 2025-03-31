@@ -17,5 +17,6 @@ public class Q6 {
         } else {
             System.out.println("It is an unknown website.");
         }
+        sc.close();
     }
 }
