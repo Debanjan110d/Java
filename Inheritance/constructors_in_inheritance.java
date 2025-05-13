@@ -44,9 +44,23 @@ class Derived extends Base {
     }
 }
 
+class ChildofDerived extends Derived {
+    ChildofDerived() {
+
+        System.out.println("I am a child of derived constructor");
+
+    }
+
+    ChildofDerived(int x, int y, int z) {
+        super(x, y);
+        System.out.println("I am a child of derived overloaded constructor with parameters : " + x + ", " + y);
+    }
+}
+
 public class constructors_in_inheritance {
     public static void main(String[] args) {
         // Base b = new Base();
         Derived d = new Derived(10, 20);
+        ChildofDerived cd = new ChildofDerived(10, 20, 30);
     }
 }
